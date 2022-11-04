@@ -1,0 +1,78 @@
+{
+    "associationName" : "Standard High School Old Students Association",
+    "location" : "Igorora Ibanda, Along Mbarara - Ibanda Road",
+    "members" : [
+        {
+            "name" : "muhanguzijoseph",
+            "password" : "joseph003"
+        },
+        {
+            "name" : "tumwikirizeenock",
+            "password" : "enock001"
+        },
+        {
+        "name" : "namakulalilian",
+        "password" : "lilian004"
+        },
+        {
+            "name" : "twijukyeswaibu",
+            "password": "swaibu007"
+        },
+        {
+            "name": "tumushabegolden",
+            "password": "golden009"
+        },
+        {
+            "name": "atuhairerosette",
+            "password": "rosette010"
+        },
+        {
+            "name": "kyarikundagloria",
+            "password": "gloria011"
+        },
+        {
+            "name": "nagabahannibal",
+            "password": "hannibal013"
+        },
+        {
+            "name": "tukamushabaannah",
+            "password": "annah017"
+        },
+        {
+            "name": "aijukaabel",
+            "password": "abel018"
+        },
+        {
+            "name": "tugumenaweeliot",
+            "password": "eliot020"
+        },
+        {
+            "name": "twinomugishagloria",
+            "password": "gloria021"
+        },
+        {
+            "name": "katwesigyeloyce",
+            "password": "loyce022"
+        },
+        {
+            "name": "komugishabeatrice",
+            "password": "beatrice025"
+        },
+        {
+            "name": "busigyewinnie",
+            "password": "winnie027"
+        }, 
+        {
+            "name": "twijukyemyres",
+            "password": "myres028"
+        },
+        {
+            "name": "chosenisaac",
+            "password": "isaac029"
+        },
+        {
+            "name": "muherezarichard", 
+            "password": "richard31"
+        }
+    ]
+}
